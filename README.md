@@ -1,8 +1,6 @@
 ## 추연빈 / Chu Yeon Bin
 
-🖥 Front-end Developer
-
-🔨 Tech Stak
+## 🖥 Front-end Developer
 
 ## Front
 ### 🧩 Framework / Language
