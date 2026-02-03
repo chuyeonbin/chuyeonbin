@@ -1,8 +1,6 @@
-## 추연빈 / Chu Yeon Bin
+## 추연빈 / Chu Yeon Bin / 🖥 Frontend Developer
 
-## 🖥 Front-end Developer
-
-## Front
+## FrontEnd
 ### 🧩 Framework / Language
 ![TypeScript](https://img.shields.io/badge/Typesciprt-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
