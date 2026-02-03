@@ -1,4 +1,4 @@
-## 추연빈 / Chu Yeon Bin / 🖥 Frontend Developer
+## 추연빈 / Chu Yeon Bin / Frontend Developer
 
 ## FrontEnd
 ### 🧩 Framework / Language
